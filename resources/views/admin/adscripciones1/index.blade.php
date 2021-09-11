@@ -8,7 +8,7 @@
         :data="{{ $data->toJson() }}"
         :url="'{{ url('admin/adscripciones1s') }}'"
         inline-template>
-
+        <p>prueba git</p>
         <div class="row">
             <div class="col">
                 <div class="card">
